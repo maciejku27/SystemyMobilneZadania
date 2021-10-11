@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    
+    <string name="q_one">9+10=21?</string>
+    <string name="q_two">Pies szczeka</string>
+    <string name="q_three">Kąt prosty ma 100 stopni</string>
+    <string name="q_four">Kot to po angielsku dog</string>
+    <string name="q_five">Jeff Bezos jest bogaty</string>
+
+    <string name="correct_answer">Zgadza się</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź</string>
+</resources>
