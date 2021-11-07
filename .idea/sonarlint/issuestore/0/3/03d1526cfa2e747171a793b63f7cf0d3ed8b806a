@@ -1,0 +1,7 @@
+
+x
+java:S1450"]Remove the "showHintButton" field and declare it as a local variable in the relevant methods.(Š‘ó–üÿÿÿÿ
+H
+java:S1068"2Remove this unused "promptTextView" private field.(¤»ô²
+>
+java:S1604"(Make this anonymous inner class a lambda(Ÿðµ—
